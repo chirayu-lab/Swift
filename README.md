@@ -68,3 +68,5 @@ Feel free to contribute by adding more categories, improving descriptions, or in
 ## 📜 License
 
 This project is open-source and available for learning and educational purposes.
+<img width="1891" height="966" alt="image" src="https://github.com/user-attachments/assets/44f41b0b-43c2-4357-812c-c1f0a66c2b67" />
+
